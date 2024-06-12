@@ -22,10 +22,10 @@
 }
 
 .main-nav-container {
-    max-width: 1290px;
+    max-width: 1320px;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 73px;
+    padding-right: 120px;
     padding-left: 15px;
 
     position: fixed;
