@@ -1056,12 +1056,15 @@ background-color: #38269f;
         position: relative;
        left: 0px;
        right: 0px;
-       width: 1270;
-        max-width: 1270px;
+       width: 100%;
+        max-width: 1310px;
         
         box-sizing: border-box;
         margin-top: 300px;
         margin-left: 0%;
+        display: grid;
+        grid-template-columns: repeat(8, 0fr);
+        gap: 0px;
         
       
     }
@@ -1075,7 +1078,7 @@ background-color: #38269f;
     position: relative;
     padding-left: 0%;
     padding-right: 0%;
-    width: 151.25px;
+    width: 157px;
     margin-right: 0px;
     
    
@@ -1083,7 +1086,7 @@ background-color: #38269f;
 
 .gallery-image{
    
-   width: 151.255px;
+   width: 157px;
    height: 150px;
 }
 
